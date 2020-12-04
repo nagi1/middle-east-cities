@@ -61,3 +61,11 @@ fs.readFile(input, (err, data) => {
 ## References
 
 Geodb-cities
+
+
+## Tags
+
+Egypt cities list
+Saudi Arbia cities list
+UAR cities list
+Kuwait cities list
