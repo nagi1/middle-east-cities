@@ -51,11 +51,11 @@ fs.readFile(input, (err, data) => {
 
 ## Todo
 
-[] Add some missing key cities in egypt
+-[] Add some missing key cities in egypt
 
-[] Covert to .sql (MySQL)
+-[] Covert to .sql (MySQL)
 
-[] Add more usage example
+-[] Add more usage example
 
 
 ## References
